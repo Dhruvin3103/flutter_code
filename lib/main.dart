@@ -17,7 +17,7 @@ class Dcapp extends StatelessWidget {
       // home: Homepage(),
       theme: ThemeData(
         brightness: Brightness.light,
-        primarySwatch: Colors.purple,
+        primarySwatch: Colors.deepPurple,
       ),
       themeMode: ThemeMode.light,
       darkTheme: ThemeData(
